@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Perfectfoolish]]></title>
-  <link href="http://perfectfoolish.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: ROR | Perfectfoolish]]></title>
+  <link href="http://perfectfoolish.github.com/blog/categories/ror/atom.xml" rel="self"/>
   <link href="http://perfectfoolish.github.com/"/>
   <updated>2013-03-08T13:23:58+08:00</updated>
   <id>http://perfectfoolish.github.com/</id>
